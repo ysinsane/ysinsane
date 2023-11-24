@@ -1,6 +1,6 @@
 ### Hi there, I'm ysinsane 👋
 
- ⚡  I’m currently maintaining on [Vue Vben Admin](https://github.com/anncwb/vue-vben-admin)
+ ⚡  I’m currently maintaining on [Vue Vben Admin](https://github.com/ysinsane/websockify-rs)
 
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=ysinsane&show_icons=true&theme=ts" /> -->
